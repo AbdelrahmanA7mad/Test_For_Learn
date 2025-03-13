@@ -8,6 +8,7 @@
 
         Console.WriteLine("Edit to test ");
 
+        Console.WriteLine("Add and i'm in main");
 
     }
 }
